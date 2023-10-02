@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YChL6ogrwBU4qHT+7rC3Z01RW6q8XH9flYqlkN82F0P/suJtXCkIpQTdDr7ecOj1eVhA3LeKPdqXiZzcsQL7TA==",
+  "success": true,
+  "projectFilePath": "/home/kenny/Desktop/GIT/Decisions.Wireguard/Decisions.Wireguard/Zitac.Wireguard.Steps/Zitac.Wireguard.Steps.csproj",
+  "expectedPackageFiles": [
+    "/home/kenny/.nuget/packages/decisionssdk/8.14.0/decisionssdk.8.14.0.nupkg.sha512",
+    "/home/kenny/.nuget/packages/portable.bouncycastle/1.9.0/portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
