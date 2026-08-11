@@ -1,0 +1,23 @@
+{
+    "Resources": {
+        "NoComponents": true,
+        "CoreServicesDlls": [
+            "./Zitac.Wireguard.Steps/bin/Zitac.Wireguard.Steps.dll"
+        ],
+        "ReferenceDlls": null,
+        "CustomImages": [
+            "wireguard.svg"
+        ],
+        "CliDlls": null,
+        "WebPages": null,
+        "SilverlightDlls": null,
+        "AgentDlls": null,
+        "InstallScript": null,
+        "SqlScripts": null,
+        "ObjectsToImport": null,
+        "MsSqlScript": null
+    },
+    "Version": "8.15.0",
+    "ImagePath": "wireguard.svg",
+    "Description": "This module adds steps to generate Wireguard Key Value Pairs"
+}
