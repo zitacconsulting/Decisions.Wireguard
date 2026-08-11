@@ -4,7 +4,9 @@
         "CoreServicesDlls": [
             "./Zitac.Wireguard.Steps/bin/Zitac.Wireguard.Steps.dll"
         ],
-        "ReferenceDlls": null,
+        "ReferenceDlls": [
+            "./Zitac.Wireguard.Steps/bin/BouncyCastle.Crypto.dll"
+        ],
         "CustomImages": [
             "wireguard.svg"
         ],
